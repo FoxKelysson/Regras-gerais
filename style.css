@@ -1,0 +1,49 @@
+* {margin: 0rem;
+padding: 0rem;
+box-sizing: border-box;
+
+}
+
+body {
+background-color: #000000;
+color: #FFFFFF;
+
+}
+
+header
+
+{
+padding: 2rem;
+text-align: center;
+font-size: 3rem;
+
+}
+
+main {
+
+padding: 2rem;
+gap: 2rem;
+
+}
+
+section {
+
+padding: 0rem;
+
+gap: 1rem;
+
+
+}
+h3{
+font-size: 3rem;
+}
+
+fieldset{
+  border-radius: 5rem;
+  padding: 3rem;
+}
+
+img {
+  width: 65rem;
+  height: auto;
+}
