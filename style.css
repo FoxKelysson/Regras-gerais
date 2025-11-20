@@ -1,4 +1,5 @@
-* {margin: 0rem;
+* {
+margin: 0rem;
 padding: 0rem;
 box-sizing: border-box;
 
@@ -15,7 +16,7 @@ header
 {
 padding: 2rem;
 text-align: center;
-font-size: 3rem;
+font-size: 3.3rem;
 
 }
 
@@ -29,21 +30,47 @@ gap: 2rem;
 section {
 
 padding: 0rem;
-
 gap: 1rem;
 
 
 }
 h3{
-font-size: 3rem;
+font-size: 3.4rem;
 }
 
 fieldset{
-  border-radius: 5rem;
-  padding: 3rem;
+border-radius: 5rem;
+padding: 3rem;
 }
+
 
 img {
   width: 65rem;
   height: auto;
 }
+
+p {
+  font-size: 1.7rem;
+}
+
+em {
+  font-size: 2.5rem;
+  color: #FFFFFF;
+}
+
+.cmdl {
+  color: green;
+}
+
+.cmdp {
+  color: red;
+}
+
+.azul {
+  color: #0015FF;
+}
+
+.tkt {
+  color: goldenrod;
+}
+
